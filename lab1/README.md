@@ -79,7 +79,7 @@ Date of finished: 08.10.2026
 ### База городов  
 <img width="1893" height="857" alt="image" src="https://github.com/user-attachments/assets/fb568ba7-af2a-4f45-9758-fd5ba6972513" />  
 
-База хранится в файле ** cities.json **, а пополнение базы происходит через вспомогательный файл **generate_cities.py**
+База хранится в файле **cities.json**, а пополнение базы происходит через вспомогательный файл **generate_cities.py**
 
 ### Итерации и улучшения
 
