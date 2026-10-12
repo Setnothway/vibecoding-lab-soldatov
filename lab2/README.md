@@ -191,9 +191,7 @@ ABS_DEVIATION = {"cost_of_living_index": {1: 30, 2: 18, 3: 9, 4: 4}, ...}
 ![Меню команд](shot38_menu.png) — *скриншот №38: меню команд Telegram (BotFather /setcommands)*
 
 ### Видео-демо
-[Ссылка на видео-демо (VK Video / YouTube / Google Drive)]
-
-*Сценарий демо: /start → игровой цикл с вопросом по индексу Numbeo → верный ответ с фан-фактом → неверный ответ со сбросом сложности → /mystats → /top → /help.*
+[[Ссылка на видео-демо (VK Video / YouTube / Google Drive)]](https://drive.google.com/file/d/1xw3d6smd_M7kRcnjHcWQdcNx184xco_z/view?usp=sharing)
 
 ---
 
